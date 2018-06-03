@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html lang="{{ site.lang }}" class="f4-ns">
+
+    <head>
+
+        {% if page.is_home %}
+        <title>{{ site.title }}</title>
+        <meta name="description" content="{{ site.description }}">
+        {% else %}
+        <title>{{ page.title }} &#8211; {{ site.title }}</title>
+        {% endif %}
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="utf-8">
+
+        {% if site.css == 'inline' %}
+        <style>
+            {% capture inline-styles %}
+            {% include style.scss %}
+            {% endcapture %}
+            {{ inline-styles | scssify }}
+        </style>
+        {% else %}
+        <link href="/css/style.css" rel="stylesheet">
+        {% endif %}
+
+    </head>
+
+    <body class="ma0 pa2 pa4-ns bg-white dark-gray c-serif c-lh-copy">
+
+        <p class="clip"><a href="#content">Skip to content</a></p>
+
+        <div class="measure center">
+
+            <h1 class="ma0 f5 lh-title"><a href="/" class="dark-gray no-underline">{{ site.title }}</a></h1>
+
+            <main id="content">
+
+                <p>Just testing our line height here. Spicy jalapeno bacon ipsum dolor amet strip steak shank meatball tri-tip. Pork belly cupim alcatra, filet mignon beef leberkas ball tip pork chicken tri-tip buffalo t-bone landjaeger doner sausage. Pork belly short ribs kielbasa ground round, meatball kevin prosciutto frankfurter. Filet mignon jerky picanha beef ribs pig jowl shankle chicken salami strip steak alcatra tri-tip bresaola leberkas. Porchetta ham fatback shank hamburger tenderloin tri-tip, sirloin pancetta.</p>

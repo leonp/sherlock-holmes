@@ -1,0 +1,98 @@
+@media screen, projection {
+
+// Define variables in _variables.scss
+// Then create classes that refer to them here
+// Then use these class names in your HTML
+
+// Example: create an alternative sans-serif class
+// Define $c-sans-serif in _variables.scss
+// Then create a c-sans-serif class here
+// Like so:
+.c-sans-serif {
+    font-family: $c-sans-serif;
+}
+
+.c-serif {
+    font-family: $c-serif;
+}
+
+
+// Some empty media queries
+// Use these if you want to make responsive custom classes
+
+.c-lh-copy {
+    line-height: $lh;
+    @media #{$breakpoint-not-small} {
+        line-height: $lh-ns;
+    }
+}
+
+@media #{$breakpoint-not-small} {
+}
+
+@media #{$breakpoint-medium} {
+}
+
+@media #{$breakpoint-large} {
+}
+
+
+} // End the enclosing screen/projection media query
+
+
+// Add some fonts the proper way
+
+/* Plex Serif regular - latin */
+@font-face {
+  font-family: 'Plex Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: local('IBM Plex Serif Regular'), local('IBMPlexSerif-Regular-Latin1'),
+       url('/fonts/IBMPlexSerif-Regular-Latin1.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBMPlexSerif-Regular-Latin1.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* Ples Serif italic - latin */
+@font-face {
+  font-family: 'Plex Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-display: fallback;
+  src: local('IBM Plex Serif Italic'), local('IBMPlexSerif-Italic-Latin1'),
+       url('/fonts/IBMPlexSerif-Italic-Latin1.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBMPlexSerif-Italic-Latin1.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* Plex Serif bold - latin */
+@font-face {
+  font-family: 'Plex Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+  src: local('IBM Plex Serif Bold'), local('IBMPlexSerif-Bold-Latin1'),
+       url('/fonts/IBMPlexSerif-Bold-Latin1.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBMPlexSerif-Bold-Latin1.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* Plex Sans regular - latin */
+@font-face {
+  font-family: 'Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: local('IBM Plex Sans Regular'), local('IBMPlexSans-Regular-Latin1'),
+       url('/fonts/IBMPlexSans-Regular-Latin1.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBMPlexSans-Regular-Latin1.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* Plex Sans bold - latin */
+@font-face {
+  font-family: 'Plex Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+  src: local('IBM Plex Sans Bold'), local('IBMPlexSans-Bold-Latin1'),
+       url('/fonts/IBMPlexSans-Bold-Latin1.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBMPlexSans-Bold-Latin1.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
