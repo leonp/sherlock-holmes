@@ -58,6 +58,12 @@ defaults:
         type: pages
     values:
         is_page: true
+-
+    scope:
+      path: ""
+      type: stories
+    values:
+      layout: story
 
 
 # Exclude from processing.
@@ -77,7 +83,7 @@ exclude:
 # Each story is a collection, consisting of chapters
 
 collections:
-  a-scandal-in-bohemia:
-      title: "A Scandal in Bohemia"
-      number: 1
-      layout: story
+    stories:
+        output: true
+
+        
