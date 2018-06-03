@@ -71,3 +71,13 @@ exclude:
 - vendor/cache/
 - vendor/gems/
 - vendor/ruby/
+
+
+# Collections
+# Each story is a collection, consisting of chapters
+
+collections:
+  a-scandal-in-bohemia:
+      title: "A Scandal in Bohemia"
+      number: 1
+      layout: story
