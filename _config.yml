@@ -83,7 +83,4 @@ exclude:
 # Each story is a collection, consisting of chapters
 
 collections:
-    stories:
-        output: true
-
-        
+- chapters

@@ -1,0 +1,19 @@
+{% include header.html %}
+
+    <article>
+
+        <h1>{{ page.title }}</h1>
+
+        {% assign chapters = site.chapters | where: "story", [page.story] | sort: "chapter" %}
+
+        {% for chapter in site.chapters %}
+
+            <h2 class="c-avenir">{{ chapter.chapter }}</h2>
+
+            {{ chapter.content }}
+
+        {% endfor %}
+
+    </article>
+
+{% include footer.html %}
