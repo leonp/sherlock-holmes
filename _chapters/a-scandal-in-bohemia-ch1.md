@@ -1,6 +1,6 @@
 ---
 story: a-scandal-in-bohemia
-chapter: 1
+number: 1
 ---
 
 <p class="mt1">

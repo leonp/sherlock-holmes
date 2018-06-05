@@ -1,6 +1,6 @@
 ---
 story: a-scandal-in-bohemia
-chapter: 2
+number: 2
 ---
 
 <p>
