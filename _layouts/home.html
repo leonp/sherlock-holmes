@@ -1,0 +1,23 @@
+{% include header.html %}
+
+<main class="ph2 ph4-ns ph5-l mb3" id="content">
+
+    <article class="pt4-ns measure-wide center">
+
+        <h1 class="normal i f3 f2-ns lh-title mb4">{{ site.title }}</h1>
+
+        <ul class="ma0 pa0 list">
+
+        {% assign stories = site.data.stories | sort: "order" %}
+
+        {% for story in stories %}
+
+            <li class="f4 lh-title mt0 mb3 c-avenir"><span class="db pink">Adventure {{ story.order }} </span><a class="db blue hover-pink no-underline b" href="/{{ story.slug }}">{{ story.title }}</a></li>
+
+        {% endfor %}
+
+        </ul>
+
+    </article>
+
+{% include footer.html %}
