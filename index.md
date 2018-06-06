@@ -1,4 +1,4 @@
 ---
-layout: home
-title: Home page
+layout: listing
+title: The Adventures of Sherlock Holmes
 ---
