@@ -20,6 +20,12 @@
     font-family: $c-avenir;
 }
 
+.c-hyphens {
+    hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+}
+
 
 // Some empty media queries
 // Use these if you want to make responsive custom classes
