@@ -1,26 +1,28 @@
 {% include header.html %}
 
-    <nav class="ph2 ph4-ns ph5-l pv3 mb3 mb0-l bg-near-white bb b--moon-gray">
+    <nav id="top" class="ph2 ph4-ns ph5-l pv3 mb3 mb0-l bg-near-white bb b--moon-gray">
 
-        <p class="ma0 f6"><a href="/" class="blue no-underline hover-pink i">{{ site.title }}</a> &rarr; <span class="db c-avenir">{{ page.number }}. {{ page.title }}</span></p>
+        <p class="ma0 f6"><a href="/" class="blue no-underline hover-pink i pv1">{{ site.title }}</a> &rarr; <span class="db c-avenir">{{ page.number }}. {{ page.title }}</span></p>
 
     </nav>
 
     <main class="ph2 ph4-ns ph5-l" id="content">
 
-        <article id="top" class="pt4-ns measure-wide center">
+        <article class="pt4-ns measure center">
 
             <header class="bb bw3 b--pink mb3 c-avenir">
 
-                <h1 class="lh-title mt0 mb2 f2"><span class="db pink avenir">Adventure {{ page.number }} </span><span class="db">{{ page.title }}</h1>
+                <h1 class="lh-title mt0 mb2 f3 f2-ns"><span class="db pink avenir">Adventure {{ page.number }} </span><span class="db">{{ page.title }}</h1>
+
+                {% assign chapters = site.chapters | where: "story", page.slug | sort: "number" %}
+
+                {% if chapters.size > 1 %}
 
                 <details class="b f6 pb2">
 
                     <summary class="blue hover-pink lh-title pointer">Table of contents</summary>
 
                     <ul class="list ma0 mt2 pa0">
-
-                        {% assign chapters = site.chapters | where: "story", [page.story] | sort: "number" %}
 
                         {% for chapter in chapters %}
 
@@ -31,6 +33,8 @@
                     </ul>
 
                 </details>
+
+                {% endif %}
 
             </header>
 
@@ -54,36 +58,57 @@
 
             {% endif %}
 
-            <div class="c-hyphens">
+            <div class="c-hyphens pb2">
 
-                {% assign chapters = site.chapters | where: "story", [page.story] | sort: "number" %}
+                {% assign chapters = site.chapters | where: "story", page.slug | sort: "number" %}
 
-                {% for chapter in chapters %}
+                {% if chapters.size < 2 %}
 
-                <section id="ch{{ chapter.number }}" class="pt2">
-
-                    <header class="c-avenir pb1 bb b--moon-gray">
-
-                        <h2 class="lh-title f4 mb1">{{ chapter.number }}.</h2>
-
-                        {% if chapter.number > 1 %}
-
-                            <p class="f6 ma0"><a href="#top" class="blue hover-pink no-underline">Back to top &uarr;</a></p>
-
-                        {% endif %}
-
-                    </header>
+                    {% for chapter in chapters %}
 
                     {{ chapter.content }}
 
-                </section>
+                    {% endfor %}
 
-                {% endfor %}
+                {% else %}
+
+                    {% for chapter in chapters %}
+
+                    <section id="ch{{ chapter.number }}" class="pt2">
+
+                        <header class="c-avenir pb1 bb b--moon-gray">
+
+                            <h2 class="lh-title f4 mb1">{{ chapter.number }}.</h2>
+
+                            {% if chapter.number > 1 %}
+
+                                <p class="f6 ma0"><a href="#top" class="blue hover-pink no-underline">Back to top &uarr;</a></p>
+
+                            {% endif %}
+
+                        </header>
+
+                        {{ chapter.content }}
+
+                    </section>
+
+                    {% endfor %}
+
+                {% endif %}
 
             </div>
 
-        </article>
+            <footer class="bt b--light-gray pt2 pb3">
 
-    </main>
+                <ul class="f6 ma0 pa0 list">
+
+                    <li class="dib mr3"><a href="#top" class="blue hover-pink no-underline">Back to top &uarr;</a></li>
+                    <li class="dib"><a href="/" class="blue hover-pink no-underline">Home</a></li>
+
+                </ul>
+
+            </footer>
+
+        </article>
 
 {% include footer.html %}

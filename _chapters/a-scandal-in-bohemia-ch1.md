@@ -4,7 +4,7 @@ number: 1
 ---
 
 <p class="mt1">
-<span class="ttl small-caps tracked">To Sherlock Holmes</span> she is always <em>the</em> woman. I have seldom heard
+To Sherlock Holmes she is always <em>the</em> woman. I have seldom heard
 him mention her under any other name. In his eyes she eclipses
 and predominates the whole of her sex. It was not that he felt
 any emotion akin to love for Irene Adler. All emotions, and that
@@ -139,7 +139,7 @@ because I have both seen and observed. By the way, since you are
 interested in these little problems, and since you are good
 enough to chronicle one or two of my trifling experiences, you
 may be interested in this.” He threw over a sheet of thick,
-gold-tinted notepaper which had been lying open upon the table.
+pink-tinted notepaper which had been lying open upon the table.
 “It came by the last post,” said he. “Read it aloud.”
 </p><p>
 The note was undated, and without either signature or address.
