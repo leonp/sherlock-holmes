@@ -28,6 +28,7 @@
 
 */
 
+// Note these importants as I have a cascade problem with bb, bt, br, bl widths overriding these
 .bw0 { border-width: 0 !important; }
 .bw1 { border-width: .125rem !important; }
 .bw2 { border-width: .25rem !important; }
