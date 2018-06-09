@@ -668,7 +668,7 @@ there has been an enclosure here!”
 “His hand when he wrote hurriedly. It is very unlike his usual
 writing, and yet I know it well.”
 </p><p>
-“&nbsp;‘Dearest do not be frightened. All will come well. There is a
+“&‘Dearest do not be frightened. All will come well. There is a
 huge error which it may take some little time to rectify.
 Wait in patience.—NEVILLE.’ Written in pencil upon the fly-leaf
 of a book, octavo size, no water-mark. Hum! Posted to-day in

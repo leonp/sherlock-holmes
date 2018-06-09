@@ -455,7 +455,7 @@ easy-going way.”
 </p><p>
 Sherlock Holmes clapped his hands softly together and chuckled.
 </p><p>
-“&nbsp;’Pon my word, Watson, you are coming along wonderfully. You have
+“’Pon my word, Watson, you are coming along wonderfully. You have
 really done very well indeed. It is true that you have missed
 everything of importance, but you have hit upon the method, and
 you have a quick eye for colour. Never trust to general
