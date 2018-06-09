@@ -336,26 +336,26 @@ something grey in colour, a coat of some sort, or a plaid perhaps.
 When I rose from my father I looked round for it, but it was
 gone.
 </p><p>
-“&‘Do you mean that it disappeared before you went for help?’
+“‘Do you mean that it disappeared before you went for help?’
 </p><p>
-“&‘Yes, it was gone.’
+“‘Yes, it was gone.’
 </p><p>
 “  ‘You cannot say what it was?’
 </p><p>
-“&‘No, I had a feeling something was there.’
+“‘No, I had a feeling something was there.’
 </p><p>
-“&‘How far from the body?’
+“‘How far from the body?’
 </p><p>
-“&‘A dozen yards or so.’
+“‘A dozen yards or so.’
 </p><p>
-“&‘And how far from the edge of the wood?’
+“‘And how far from the edge of the wood?’
 </p><p>
-“&‘About the same.’
+“‘About the same.’
 </p><p>
-“&‘Then if it was removed it was while you were within a dozen
+“‘Then if it was removed it was while you were within a dozen
 yards of it?’
 </p><p>
-“&‘Yes, but with my back towards it.’
+“‘Yes, but with my back towards it.’
 </p><p>
 “This concluded the examination of the witness.”
 </p><p>
@@ -1051,7 +1051,7 @@ going well when McCarthy laid his grip upon me.
 Regent Street with hardly a coat to his back or a boot to his
 foot.
 </p><p>
-“&‘Here we are, Jack,’ says he, touching me on the arm; ‘we’ll be
+“‘Here we are, Jack,’ says he, touching me on the arm; ‘we’ll be
 as good as a family to you. There’s two of us, me and my son, and
 you can have the keeping of us. If you don’t—it’s a fine,
 law-abiding country is England, and there’s always a policeman
@@ -1118,7 +1118,7 @@ giant frame, he stumbled slowly from the room.
 “God help us!” said Holmes after a long silence. “Why does fate
 play such tricks with poor, helpless worms? I never hear of such
 a case as this that I do not think of Baxter’s words, and say,
-‘There, but for the grace of God, goes Sherlock Holmes.’&”
+‘There, but for the grace of God, goes Sherlock Holmes.’”
 </p><p>
 James McCarthy was acquitted at the Assizes on the strength of a
 number of objections which had been drawn out by Holmes and

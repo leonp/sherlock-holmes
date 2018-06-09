@@ -210,9 +210,9 @@ skin the colour of putty, and he glared at the envelope which he
 still held in his trembling hand, ‘K. K. K.!’ he shrieked, and
 then, ‘My God, my God, my sins have overtaken me!’
 </p><p>
-“&‘What is it, uncle?’ I cried.
+“‘What is it, uncle?’ I cried.
 </p><p>
-“&‘Death,’ said he, and rising from the table he retired to his
+“‘Death,’ said he, and rising from the table he retired to his
 room, leaving me palpitating with horror. I took up the envelope
 and saw scrawled in red ink upon the inner flap, just above the
 gum, the letter K three times repeated. There was nothing else
@@ -222,7 +222,7 @@ ascended the stair I met him coming down with an old rusty key,
 which must have belonged to the attic, in one hand, and a small
 brass box, like a cashbox, in the other.
 </p><p>
-“&‘They may do what they like, but I’ll checkmate them still,’
+“‘They may do what they like, but I’ll checkmate them still,’
 said he with an oath. ‘Tell Mary that I shall want a fire in my
 room to-day, and send down to Fordham, the Horsham lawyer.’
 </p><p>
@@ -234,7 +234,7 @@ glanced at the box I noticed, with a start, that upon the lid was
 printed the treble K which I had read in the morning upon the
 envelope.
 </p><p>
-“&‘I wish you, John,’ said my uncle, ‘to witness my will. I leave
+“‘I wish you, John,’ said my uncle, ‘to witness my will. I leave
 my estate, with all its advantages and all its disadvantages, to
 my brother, your father, whence it will, no doubt, descend to
 you. If you can enjoy it in peace, well and good! If you find you
@@ -315,38 +315,38 @@ he called my cock-and-bull story about the colonel, but he looked
 very scared and puzzled now that the same thing had come upon
 himself.
 </p><p>
-“&‘Why, what on earth does this mean, John?’ he stammered.
+“‘Why, what on earth does this mean, John?’ he stammered.
 </p><p>
 “My heart had turned to lead. ‘It is K. K. K.,’ said I.
 </p><p>
 “He looked inside the envelope. ‘So it is,’ he cried. ‘Here are
 the very letters. But what is this written above them?’
 </p><p>
-“&‘Put the papers on the sundial,’ I read, peeping over his
+“‘Put the papers on the sundial,’ I read, peeping over his
 shoulder.
 </p><p>
-“&‘What papers? What sundial?’ he asked.
+“‘What papers? What sundial?’ he asked.
 </p><p>
-“&‘The sundial in the garden. There is no other,’ said I; ‘but the
+“‘The sundial in the garden. There is no other,’ said I; ‘but the
 papers must be those that are destroyed.’
 </p><p>
-“&‘Pooh!’ said he, gripping hard at his courage. ‘We are in a
+“‘Pooh!’ said he, gripping hard at his courage. ‘We are in a
 civilised land here, and we can’t have tomfoolery of this kind.
 Where does the thing come from?’
 </p><p>
-“&‘From Dundee,’ I answered, glancing at the postmark.
+“‘From Dundee,’ I answered, glancing at the postmark.
 </p><p>
-“&‘Some preposterous practical joke,’ said he. ‘What have I to do
+“‘Some preposterous practical joke,’ said he. ‘What have I to do
 with sundials and papers? I shall take no notice of such
 nonsense.’
 </p><p>
-“&‘I should certainly speak to the police,’ I said.
+“‘I should certainly speak to the police,’ I said.
 </p><p>
-“&‘And be laughed at for my pains. Nothing of the sort.’
+“‘And be laughed at for my pains. Nothing of the sort.’
 </p><p>
-“&‘Then let me do so?’
+“‘Then let me do so?’
 </p><p>
-“&‘No, I forbid you. I won’t have a fuss made about such
+“‘No, I forbid you. I won’t have a fuss made about such
 nonsense.’
 </p><p>
 “It was in vain to argue with him, for he was a very obstinate
@@ -674,7 +674,7 @@ sinking his voice—“have you never heard of the Ku Klux Klan?”
 Holmes turned over the leaves of the book upon his knee. “Here it
 is,” said he presently:
 </p><p>
-“&‘Ku Klux Klan. A name derived from the fanciful resemblance to
+“‘Ku Klux Klan. A name derived from the fanciful resemblance to
 the sound produced by cocking a rifle. This terrible secret
 society was formed by some ex-Confederate soldiers in the
 Southern states after the Civil War, and it rapidly formed local
@@ -755,7 +755,7 @@ done?” He spoke calmly, but I could see that he was deeply moved.
 “My eye caught the name of Openshaw, and the heading ‘Tragedy
 Near Waterloo Bridge.’ Here is the account:
 </p><p>
-“&‘Between nine and ten last night Police-Constable Cook, of the H
+“‘Between nine and ten last night Police-Constable Cook, of the H
 Division, on duty near Waterloo Bridge, heard a cry for help and
 a splash in the water. The night, however, was extremely dark and
 stormy, so that, in spite of the help of several passers-by, it
