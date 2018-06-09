@@ -4,15 +4,15 @@
 
     <article class="pt4-ns measure-wide center">
 
-        <h1 class="normal i f3 f2-ns lh-title pb2 bw3 bb b--pink mb4">{{ page.title }}</h1>
+        <h1 class="normal i f3 f2-ns lh-title pb2 bw3 bb b--dark-pink mb4">{{ page.title }}</h1>
 
         <ul class="ma0 pa0 list">
 
-        {% assign stories = site.data.stories | sort: "order" %}
+        {% assign stories = site.pages | where: "is_story", "true" | sort: "number" %}
 
         {% for story in stories %}
 
-            <li class="lh-title mt0 mb3 c-avenir"><span class="db pink">Adventure {{ story.order }} </span><a class="f4 db blue hover-pink no-underline b" href="/{{ story.slug }}">{{ story.title }}</a></li>
+            <li class="lh-title mt0 mb3 c-avenir"><span class="db gray">Adventure {{ story.number }} </span><a class="f4 db blue hover-dark-pink no-underline b" href="/the-adventures-of-sherlock-holmes/{{ story.slug }}">{{ story.title }}</a></li>
 
         {% endfor %}
 

@@ -58,12 +58,13 @@ defaults:
         type: pages
     values:
         is_page: true
+
 -
     scope:
-      path: ""
-      type: stories
+      path: "the-adventures-of-sherlock-holmes"
     values:
       layout: story
+      is_story: true
 
 
 # Exclude from processing.
