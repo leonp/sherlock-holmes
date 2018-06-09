@@ -2,7 +2,7 @@
 
     <nav id="top" class="ph2 ph4-ns ph5-l pv3 mb3 mb0-l bg-near-white bb b--moon-gray">
 
-        <p class="ma0 f6"><a href="/" class="blue no-underline hover-dark-pink i pv1">{{ site.title }}</a> &rarr; <span class="db c-avenir">{{ page.number }}. {{ page.title }}</span></p>
+        <p class="ma0 f6"><a href="/" class="blue no-underline hover-dark-red i pv1">{{ site.title }}</a> &rarr; <span class="db c-avenir">{{ page.number }}. {{ page.title }}</span></p>
 
     </nav>
 
@@ -10,9 +10,9 @@
 
         <article class="pt4-ns measure center">
 
-            <header class="bb bw3 b--dark-pink mb3 c-avenir">
+            <header class="bb bw3 b--dark-red mb3 c-avenir">
 
-                <h1 class="lh-title mt0 mb2 f3 f2-ns"><span class="db dark-pink avenir">Adventure {{ page.number }} </span><span class="db">{{ page.title }}</h1>
+                <h1 class="lh-title mt0 mb2 f3 f2-ns"><span class="db dark-red avenir">Adventure {{ page.number }} </span><span class="db">{{ page.title }}</h1>
 
                 {% assign chapters = site.chapters | where: "story", page.slug | sort: "number" %}
 
@@ -20,13 +20,13 @@
 
                 <details class="b f6 pb2">
 
-                    <summary class="blue hover-dark-pink lh-title pointer">Table of contents</summary>
+                    <summary class="blue hover-dark-red lh-title pointer">Table of contents</summary>
 
                     <ul class="list ma0 mt2 pa0">
 
                         {% for chapter in chapters %}
 
-                            <li><a href="#ch{{ chapter.number }}" class="pv2 bt b--moon-gray blue no-underline hover-dark-pink db">Chapter {{ chapter.number }}</a></li>
+                            <li><a href="#ch{{ chapter.number }}" class="pv2 bt b--moon-gray blue no-underline hover-dark-red db">Chapter {{ chapter.number }}</a></li>
 
                         {% endfor %}
 
@@ -82,7 +82,7 @@
 
                             {% if chapter.number > 1 %}
 
-                                <p class="f6 ma0"><a href="#top" class="blue hover-dark-pink no-underline">Back to top &uarr;</a></p>
+                                <p class="f6 ma0"><a href="#top" class="blue hover-dark-red no-underline">Back to top &uarr;</a></p>
 
                             {% endif %}
 
@@ -102,8 +102,8 @@
 
                 <ul class="f6 ma0 pa0 list">
 
-                    <li class="dib mr3"><a href="#top" class="blue hover-dark-pink no-underline">Back to top &uarr;</a></li>
-                    <li class="dib"><a href="/" class="blue hover-dark-pink no-underline">Home</a></li>
+                    <li class="dib mr3"><a href="#top" class="blue hover-dark-red no-underline">Back to top &uarr;</a></li>
+                    <li class="dib"><a href="/" class="blue hover-dark-red no-underline">Home</a></li>
 
                 </ul>
 
