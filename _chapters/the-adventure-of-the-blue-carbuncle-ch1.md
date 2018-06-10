@@ -1,6 +1,6 @@
 ---
 story: the-adventure-of-the-blue-carbuncle
-number: 7
+number: 1
 ---
 
 <p>I had called upon my friend Sherlock Holmes upon the second

@@ -1,8 +1,8 @@
 ---
-title: The Boscombe Valley Mystery
-slug: the-boscombe-valley-mystery
-number: 4
+title: The Adventure of the Copper Beeches
+slug: the-adventure-of-the-copper-beeches
+number: 12
 image: true
-alt: "Sketch of a maid handing boots for inspection to Sherlock Holmes"
+alt: "A wild cat attacks a man while another man approaches with a gun"
 caption: "Illustration by <a href='https://en.wikipedia.org/wiki/Sidney_Paget' class='blue no-underline hover-dark-red'>Sidney Paget</a>, 1891/1892"
 ---

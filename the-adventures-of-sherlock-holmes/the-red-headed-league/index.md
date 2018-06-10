@@ -4,5 +4,5 @@ slug: the-red-headed-league
 number: 2
 image: true
 alt: "Sketch of Jabez Wilson seated with a newspaper"
-caption: "Illustration from the original <cite>Strand</cite> magazine edition, Sidney Paget, 1891"
+caption: "Illustration by <a href='https://en.wikipedia.org/wiki/Sidney_Paget' class='blue no-underline hover-dark-red'>Sidney Paget</a>, 1891/1892"
 ---
