@@ -12,7 +12,7 @@
 
             <header class="bb bw3 b--dark-red mb3 c-avenir">
 
-                <h1 class="lh-title mt0 mb2 f3 f2-ns"><span class="dark-red avenir">Adventure {{ page.number }} </span><span class="db">{{ page.title }}</span></h1>
+                <h1 class="lh-title mt0 mb2 f3 f2-ns"><span class="dark-red">Adventure {{ page.number }} </span><span class="db">{{ page.title }}</span></h1>
 
                 {% assign chapters = site.chapters | where: "story", page.slug | sort: "number" %}
 
