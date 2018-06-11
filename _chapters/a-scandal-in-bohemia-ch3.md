@@ -111,9 +111,9 @@ keep it only to safeguard myself, and to preserve a weapon which
 will always secure me from any steps which he might take in the
 future. I leave a photograph which he might care to possess; and
 I remain, dear Mr. Sherlock Holmes,
-</p><p align="right">
-“Very truly yours, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-“IRENE NORTON, <em>née</em> ADLER.”
+</p><p class="tr">
+“Very truly yours,
+“IRENE NORTON, <i>née</i> ADLER.”
 </p><p>
 “What a woman—oh, what a woman!” cried the King of Bohemia, when
 we had all three read this epistle. “Did I not tell you how quick
