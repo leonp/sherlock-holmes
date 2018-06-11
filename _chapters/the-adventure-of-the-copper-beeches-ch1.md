@@ -90,7 +90,7 @@ ran thus:</p>
 I should or should not accept a situation which has been offered
 to me as governess. I shall call at half-past ten to-morrow if I
 do not inconvenience you. Yours faithfully, <br><span class="tr db">VIOLET HUNTER.
-</p><p>
+</span></p><p>
 “Do you know the young lady?” I asked.
 </p><p>
 “Not I.”
@@ -151,34 +151,34 @@ her elbow with a pair of glasses on his nose, looking very
 earnestly at the ladies who entered. As I came in he gave quite a
 jump in his chair and turned quickly to Miss Stoper.
 </p><p>
-“&nbsp;‘That will do,’ said he; ‘I could not ask for anything better.
+“‘That will do,’ said he; ‘I could not ask for anything better.
 Capital! capital!’ He seemed quite enthusiastic and rubbed his
 hands together in the most genial fashion. He was such a
 comfortable-looking man that it was quite a pleasure to look at
 him.
 </p><p>
-“&nbsp;‘You are looking for a situation, miss?’ he asked.
+“‘You are looking for a situation, miss?’ he asked.
 </p><p>
-“&nbsp;‘Yes, sir.’
+“‘Yes, sir.’
 </p><p>
-“&nbsp;‘As governess?’
+“‘As governess?’
 </p><p>
-“&nbsp;‘Yes, sir.’
+“‘Yes, sir.’
 </p><p>
-“&nbsp;‘And what salary do you ask?’
+“‘And what salary do you ask?’
 </p><p>
-“&nbsp;‘I had <i>£</i>4 a month in my last place with Colonel Spence
+“‘I had <i>£</i>4 a month in my last place with Colonel Spence
 Munro.’
 </p><p>
-“&nbsp;‘Oh, tut, tut! sweating—rank sweating!’ he cried, throwing his
+“‘Oh, tut, tut! sweating—rank sweating!’ he cried, throwing his
 fat hands out into the air like a man who is in a boiling
 passion. ‘How could anyone offer so pitiful a sum to a lady with
 such attractions and accomplishments?’
 </p><p>
-“&nbsp;‘My accomplishments, sir, may be less than you imagine,’ said I.
+“‘My accomplishments, sir, may be less than you imagine,’ said I.
 ‘A little French, a little German, music, and drawing—’
 </p><p>
-“&nbsp;‘Tut, tut!’ he cried. ‘This is all quite beside the question.
+“‘Tut, tut!’ he cried. ‘This is all quite beside the question.
 The point is, have you or have you not the bearing and deportment
 of a lady? There it is in a nutshell. If you have not, you are
 not fitted for the rearing of a child who may some day play a
@@ -192,7 +192,7 @@ such an offer seemed almost too good to be true. The gentleman,
 however, seeing perhaps the look of incredulity upon my face,
 opened a pocket-book and took out a note.
 </p><p>
-“&nbsp;‘It is also my custom,’ said he, smiling in the most pleasant
+“‘It is also my custom,’ said he, smiling in the most pleasant
 fashion until his eyes were just two little shining slits amid
 the white creases of his face, ‘to advance to my young ladies
 half their salary beforehand, so that they may meet any little
@@ -204,16 +204,16 @@ advance was a great convenience, and yet there was something
 unnatural about the whole transaction which made me wish to know
 a little more before I quite committed myself.
 </p><p>
-“&nbsp;‘May I ask where you live, sir?’ said I.
+“‘May I ask where you live, sir?’ said I.
 </p><p>
-“&nbsp;‘Hampshire. Charming rural place. The Copper Beeches, five miles
+“‘Hampshire. Charming rural place. The Copper Beeches, five miles
 on the far side of Winchester. It is the most lovely country, my
 dear young lady, and the dearest old country-house.’
 </p><p>
-“&nbsp;‘And my duties, sir? I should be glad to know what they would
+“‘And my duties, sir? I should be glad to know what they would
 be.’
 </p><p>
-“&nbsp;‘One child—one dear little romper just six years old. Oh, if
+“‘One child—one dear little romper just six years old. Oh, if
 you could see him killing cockroaches with a slipper! Smack!
 smack! smack! Three gone before you could wink!’ He leaned back
 in his chair and laughed his eyes into his head again.
@@ -222,48 +222,48 @@ in his chair and laughed his eyes into his head again.
 but the father’s laughter made me think that perhaps he was
 joking.
 </p><p>
-“&nbsp;‘My sole duties, then,’ I asked, ‘are to take charge of a single
+“‘My sole duties, then,’ I asked, ‘are to take charge of a single
 child?’
 </p><p>
-“&nbsp;‘No, no, not the sole, not the sole, my dear young lady,’ he
+“‘No, no, not the sole, not the sole, my dear young lady,’ he
 cried. ‘Your duty would be, as I am sure your good sense would
 suggest, to obey any little commands my wife might give, provided
 always that they were such commands as a lady might with
 propriety obey. You see no difficulty, heh?’
 </p><p>
-“&nbsp;‘I should be happy to make myself useful.’
+“‘I should be happy to make myself useful.’
 </p><p>
-“&nbsp;‘Quite so. In dress now, for example. We are faddy people, you
+“‘Quite so. In dress now, for example. We are faddy people, you
 know—faddy but kind-hearted. If you were asked to wear any dress
 which we might give you, you would not object to our little whim.
 Heh?’
 </p><p>
-“&nbsp;‘No,’ said I, considerably astonished at his words.
+“‘No,’ said I, considerably astonished at his words.
 </p><p>
-“&nbsp;‘Or to sit here, or sit there, that would not be offensive to
+“‘Or to sit here, or sit there, that would not be offensive to
 you?’
 </p><p>
-“&nbsp;‘Oh, no.’
+“‘Oh, no.’
 </p><p>
-“&nbsp;‘Or to cut your hair quite short before you come to us?’
+“‘Or to cut your hair quite short before you come to us?’
 </p><p>
 “I could hardly believe my ears. As you may observe, Mr. Holmes,
 my hair is somewhat luxuriant, and of a rather peculiar tint of
 chestnut. It has been considered artistic. I could not dream of
 sacrificing it in this offhand fashion.
 </p><p>
-“&nbsp;‘I am afraid that that is quite impossible,’ said I. He had been
+“‘I am afraid that that is quite impossible,’ said I. He had been
 watching me eagerly out of his small eyes, and I could see a
 shadow pass over his face as I spoke.
 </p><p>
-“&nbsp;‘I am afraid that it is quite essential,’ said he. ‘It is a
+“‘I am afraid that it is quite essential,’ said he. ‘It is a
 little fancy of my wife’s, and ladies’ fancies, you know, madam,
 ladies’ fancies must be consulted. And so you won’t cut your
 hair?’
 </p><p>
-“&nbsp;‘No, sir, I really could not,’ I answered firmly.
+“‘No, sir, I really could not,’ I answered firmly.
 </p><p>
-“&nbsp;‘Ah, very well; then that quite settles the matter. It is a
+“‘Ah, very well; then that quite settles the matter. It is a
 pity, because in other respects you would really have done very
 nicely. In that case, Miss Stoper, I had best inspect a few more
 of your young ladies.’
@@ -273,11 +273,11 @@ without a word to either of us, but she glanced at me now with so
 much annoyance upon her face that I could not help suspecting
 that she had lost a handsome commission through my refusal.
 </p><p>
-“&nbsp;‘Do you desire your name to be kept upon the books?’ she asked.
+“‘Do you desire your name to be kept upon the books?’ she asked.
 </p><p>
-“&nbsp;‘If you please, Miss Stoper.’
+“‘If you please, Miss Stoper.’
 </p><p>
-“&nbsp;‘Well, really, it seems rather useless, since you refuse the
+“‘Well, really, it seems rather useless, since you refuse the
 most excellent offers in this fashion,’ said she sharply. ‘You
 can hardly expect us to exert ourselves to find another such
 opening for you. Good-day to you, Miss Hunter.’ She struck a gong
@@ -298,8 +298,8 @@ back to the agency and inquire whether the place was still open
 when I received this letter from the gentleman himself. I have it
 here and I will read it to you:
 </p><p align="right"><br>
-“&nbsp;‘The Copper Beeches, near Winchester.
-</p><p>“&nbsp;‘DEAR MISS HUNTER:—Miss Stoper has very kindly given me your
+“‘The Copper Beeches, near Winchester.
+</p><p>“‘DEAR MISS HUNTER:—Miss Stoper has very kindly given me your
 address, and I write from here to ask you whether you have
 reconsidered your decision. My wife is very anxious that you
 should come, for she has been much attracted by my description of
@@ -319,7 +319,7 @@ firm upon this point, and I only hope that the increased salary
 may recompense you for the loss. Your duties, as far as the child
 is concerned, are very light. Now do try to come, and I shall
 meet you with the dog-cart at Winchester. Let me know your train.
-Yours faithfully,</p><p align="right"><br>“&nbsp;‘JEPHRO RUCASTLE.’
+Yours faithfully,</p><p align="right"><br>“‘JEPHRO RUCASTLE.’
 <br><br></p><p>
 “That is the letter which I have just received, Mr. Holmes, and
 my mind is made up that I will accept it. I thought, however,
@@ -591,7 +591,7 @@ corner of the building.
 very quiet; on the third, Mrs. Rucastle came down just after
 breakfast and whispered something to her husband.
 </p><p>
-“&nbsp;‘Oh, yes,’ said he, turning to me, ‘we are very much obliged to
+“‘Oh, yes,’ said he, turning to me, ‘we are very much obliged to
 you, Miss Hunter, for falling in with our whims so far as to cut
 your hair. I assure you that it has not detracted in the tiniest
 iota from your appearance. We shall now see how the electric-blue
@@ -653,19 +653,19 @@ eyes fixed upon me with a most searching gaze. She said nothing,
 but I am convinced that she had divined that I had a mirror in my
 hand and had seen what was behind me. She rose at once.
 </p><p>
-“&nbsp;‘Jephro,’ said she, ‘there is an impertinent fellow upon the
+“‘Jephro,’ said she, ‘there is an impertinent fellow upon the
 road there who stares up at Miss Hunter.’
 </p><p>
-“&nbsp;‘No friend of yours, Miss Hunter?’ he asked.
+“‘No friend of yours, Miss Hunter?’ he asked.
 </p><p>
-“&nbsp;‘No, I know no one in these parts.’
+“‘No, I know no one in these parts.’
 </p><p>
-“&nbsp;‘Dear me! How very impertinent! Kindly turn round and motion to
+“‘Dear me! How very impertinent! Kindly turn round and motion to
 him to go away.’
 </p><p>
-“&nbsp;‘Surely it would be better to take no notice.’
+“‘Surely it would be better to take no notice.’
 </p><p>
-“&nbsp;‘No, no, we should have him loitering here always. Kindly turn
+“‘No, no, we should have him loitering here always. Kindly turn
 round and wave him away like that.’
 </p><p>
 “I did as I was told, and at the same instant Mrs. Rucastle drew
@@ -684,13 +684,13 @@ near the kitchen door. As we approached it I heard the sharp
 rattling of a chain, and the sound as of a large animal moving
 about.
 </p><p>
-“&nbsp;‘Look in here!’ said Mr. Rucastle, showing me a slit between two
+“‘Look in here!’ said Mr. Rucastle, showing me a slit between two
 planks. ‘Is he not a beauty?’
 </p><p>
 “I looked through and was conscious of two glowing eyes, and of a
 vague figure huddled up in the darkness.
 </p><p>
-“&nbsp;‘Don’t be frightened,’ said my employer, laughing at the start
+“‘Don’t be frightened,’ said my employer, laughing at the start
 which I had given. ‘It’s only Carlo, my mastiff. I call him mine,
 but really old Toller, my groom, is the only man who can do
 anything with him. We feed him once a day, and not too much then,
@@ -761,7 +761,7 @@ fourth was shuttered up. They were evidently all deserted. As I
 strolled up and down, glancing at them occasionally, Mr. Rucastle
 came out to me, looking as merry and jovial as ever.
 </p><p>
-“&nbsp;‘Ah!’ said he, ‘you must not think me rude if I passed you
+“‘Ah!’ said he, ‘you must not think me rude if I passed you
 without a word, my dear young lady. I was preoccupied with
 business matters.’
 </p><p>
@@ -772,7 +772,7 @@ of them has the shutters up.’
 “He looked surprised and, as it seemed to me, a little startled
 at my remark.
 </p><p>
-“&nbsp;‘Photography is one of my hobbies,’ said he. ‘I have made my
+“‘Photography is one of my hobbies,’ said he. ‘I have made my
 dark room up there. But, dear me! what an observant young lady we
 have come upon. Who would have believed it? Who would have ever
 believed it?’ He spoke in a jesting tone, but there was no jest
@@ -825,37 +825,37 @@ skirt of my dress. I rushed down the passage, through the door,
 and straight into the arms of Mr. Rucastle, who was waiting
 outside.
 </p><p>
-“&nbsp;‘So,’ said he, smiling, ‘it was you, then. I thought that it
+“‘So,’ said he, smiling, ‘it was you, then. I thought that it
 must be when I saw the door open.’
 </p><p>
-“&nbsp;‘Oh, I am so frightened!’ I panted.
+“‘Oh, I am so frightened!’ I panted.
 </p><p>
-“&nbsp;‘My dear young lady! my dear young lady!’—you cannot think how
+“‘My dear young lady! my dear young lady!’—you cannot think how
 caressing and soothing his manner was—‘and what has frightened
 you, my dear young lady?’
 </p><p>
 “But his voice was just a little too coaxing. He overdid it. I
 was keenly on my guard against him.
 </p><p>
-“&nbsp;‘I was foolish enough to go into the empty wing,’ I answered.
+“‘I was foolish enough to go into the empty wing,’ I answered.
 ‘But it is so lonely and eerie in this dim light that I was
 frightened and ran out again. Oh, it is so dreadfully still in
 there!’
 </p><p>
-“&nbsp;‘Only that?’ said he, looking at me keenly.
+“‘Only that?’ said he, looking at me keenly.
 </p><p>
-“&nbsp;‘Why, what did you think?’ I asked.
+“‘Why, what did you think?’ I asked.
 </p><p>
-“&nbsp;‘Why do you think that I lock this door?’
+“‘Why do you think that I lock this door?’
 </p><p>
-“&nbsp;‘I am sure that I do not know.’
+“‘I am sure that I do not know.’
 </p><p>
-“&nbsp;‘It is to keep people out who have no business there. Do you
+“‘It is to keep people out who have no business there. Do you
 see?’ He was still smiling in the most amiable manner.
 </p><p>
-“&nbsp;‘I am sure if I had known—’
+“‘I am sure if I had known—’
 </p><p>
-“&nbsp;‘Well, then, you know now. And if you ever put your foot over
+“‘Well, then, you know now. And if you ever put your foot over
 that threshold again’—here in an instant the smile hardened into
 a grin of rage, and he glared down at me with the face of a
 demon—‘I’ll throw you to the mastiff.’
