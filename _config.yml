@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "The Adventures of Sherlock Holmes"
-description: "The original stories in HTML. Readable on any device with a web browser."
+description: "The original 1892 collection of 12 stories in HTML. Readable on any device with a web browser."
 lang: "en" # or fr, de, es etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
