@@ -58,6 +58,13 @@ hr:after {
     }
 }
 
+.c-anchor-link {
+    display: none;
+    @media #{$breakpoint-not-small} {
+        display: inline;
+    }
+}
+
 @media #{$breakpoint-not-small} {
 }
 
