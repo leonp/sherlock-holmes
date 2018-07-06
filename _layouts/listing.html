@@ -2,9 +2,9 @@
 
 <main class="ph2 ph4-ns ph5-l mb3" id="content">
 
-    <article class="pb3 pv4-ns measure-wide center">
+    <article class="pb3 pv4-ns measure center">
 
-        <h1 class="normal i f3 f2-ns lh-title pb2 bw3 bb b--dark-red mb4">{{ page.title }}</h1>
+        <h1 class="normal i f3 lh-title pb2 bw3 bb b--dark-red mb4">{{ page.title }}</h1>
 
         <ul class="ma0 pa0 list">
 
@@ -12,7 +12,7 @@
 
         {% for story in stories %}
 
-            <li class="lh-title mt0 mb3 pb1 c-avenir"><span class="db gray">Adventure {{ story.number }} </span><a class="f4 db dark-blue hover-dark-red no-underline b" href="/the-adventures-of-sherlock-holmes/{{ story.slug }}">{{ story.title }}</a></li>
+            <li class="lh-title mt0 mb4"><span class="c-avenir db gray f6">Adventure {{ story.number }} </span><a class="f4 db pv1 dark-blue hover-dark-red no-underline" href="/the-adventures-of-sherlock-holmes/{{ story.slug }}">{{ story.title }}</a></li>
 
         {% endfor %}
 
