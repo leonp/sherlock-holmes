@@ -26,6 +26,16 @@
     -webkit-hyphens: auto;
 }
 
+.c-font-size {
+    font-size: $c-font-size;
+    @media #{$breakpoint-medium} {
+        font-size: $c-font-size-m;
+    }
+    @media #{$breakpoint-large} {
+        font-size: $c-font-size-l;
+    }
+}
+
 
 // Style hrs
 hr {
