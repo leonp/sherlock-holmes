@@ -3,6 +3,7 @@ title: The Adventure of the Beryl Coronet
 slug: the-adventure-of-the-beryl-coronet
 number: 11
 image: true
+image-width: 600
+image-height: 396
 alt: "Three formally dressed people drinking tea in armchairs"
-caption: "Illustration by <a href='https://en.wikipedia.org/wiki/Sidney_Paget' class='dark-blue no-underline hover-dark-red'>Sidney Paget</a>, 1892"
 ---

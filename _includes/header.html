@@ -14,6 +14,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta charset="utf-8">
 
+        {% if page.is_story and page.image %}
+        <link rel="preload" as="image" href="/images/{{ page.slug }}.jpg">
+        {% endif %}
+
         {% if site.css == 'inline' %}
         <style>
             {% capture inline-styles %}

@@ -46,17 +46,13 @@
 
             <figure class="ma0 pa0 tc">
 
-                <img class="db center" alt="{{ page.alt }}" src="/images/{{ page.slug }}.jpg">
-
-                {% if page.caption %}
+                <img class="db center" alt="{{ page.alt }}" src="/images/{{ page.slug }}.jpg" height="{{ page.image-height }}" width="{{ page.image-width }}">
 
                 <figcaption>
 
-                    <p class="f6 gray">{{ page.caption }}</p>
+                    <p class="f6">Illustration by <a href='https://en.wikipedia.org/wiki/Sidney_Paget' class='dark-blue hover-dark-red'>Sidney Paget</a>, 1892</p>
 
                 </figcaption>
-
-                {% endif %}
 
             </figure>
 
