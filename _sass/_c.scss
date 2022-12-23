@@ -36,6 +36,15 @@
     }
 }
 
+// Smooth and wellpositioned scrolling
+html {
+    scroll-behavior: smooth;
+}
+
+[id] {
+    scroll-margin-top: 2ex;
+}
+
 
 // Style hrs
 hr {
@@ -86,39 +95,3 @@ hr:after {
 
 
 } // End the enclosing screen/projection media query
-
-
-// Add some fonts the proper way
-
-/* Plex Serif regular - latin */
-@font-face {
-  font-family: 'Plex Serif';
-  font-style: normal;
-  font-weight: 400;
-  font-display: fallback;
-  src: local('IBM Plex Serif Regular'), local('IBMPlexSerif-Regular-Latin1'),
-       url('/fonts/IBMPlexSerif-Regular-Latin1.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/IBMPlexSerif-Regular-Latin1.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* Ples Serif italic - latin */
-@font-face {
-  font-family: 'Plex Serif';
-  font-style: italic;
-  font-weight: 400;
-  font-display: fallback;
-  src: local('IBM Plex Serif Italic'), local('IBMPlexSerif-Italic-Latin1'),
-       url('/fonts/IBMPlexSerif-Italic-Latin1.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/IBMPlexSerif-Italic-Latin1.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* Plex Serif bold - latin */
-@font-face {
-  font-family: 'Plex Serif';
-  font-style: normal;
-  font-weight: 700;
-  font-display: fallback;
-  src: local('IBM Plex Serif Bold'), local('IBMPlexSerif-Bold-Latin1'),
-       url('/fonts/IBMPlexSerif-Bold-Latin1.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/IBMPlexSerif-Bold-Latin1.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
