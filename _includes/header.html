@@ -8,7 +8,8 @@
         <title>{{ site.title }}</title>
         <meta name="description" content="{{ site.description }}">
         {% else %}
-        <title>{{ page.title }} &#8211; {{ site.title }}</title>
+        <title>{{ page.title }} — {{ site.title }}</title>
+        <meta name="description" content="The complete text of “{{ page.title }}” in HTML. Properly typeset and readable in any browser on any device.">
         {% endif %}
 
         <meta name="viewport" content="width=device-width, initial-scale=1">
