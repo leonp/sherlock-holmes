@@ -77,6 +77,15 @@ hr:after {
     background: #F4F4F4;
 }
 
+// Text wrap
+article :is(h1,h2,h3,h4,h5,h6) {
+    text-wrap: balance;
+}
+
+article :is(p,li) {
+    text-wrap: pretty;
+}
+
 
 // Some empty media queries
 // Use these if you want to make responsive custom classes
