@@ -24,6 +24,15 @@
     hyphens: auto;
     -moz-hyphens: auto;
     -webkit-hyphens: auto;
+    hanging-punctuation: first last;
+}
+
+.c-hyphens p:first-child::first-letter,
+.c-hyphens section header + p::first-letter {
+    -webkit-initial-letter: 2;
+    initial-letter: 2;
+    padding-inline-end: 0.5em;
+    color: #e7040f;
 }
 
 .c-font-size {
